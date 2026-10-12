@@ -1,0 +1,6 @@
+# USB Blocker — Python dependencies
+# Run as admin
+
+pywin32>=306
+usb-monitor>=1.23
+wmi>=1.5.1
