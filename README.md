@@ -1,4 +1,4 @@
-# USB Blocker (CS 434)
+# USB Blocker
 
 ## Notes
 VID = Vendor ID
